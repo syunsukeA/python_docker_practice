@@ -1,0 +1,4 @@
+**/*.sh
+Dockerfile
+data
+__pycache__
